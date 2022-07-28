@@ -1,7 +1,9 @@
 matplotlib==3.5.2
 mlxtend==0.20.0
+nltk==3.7
 numpy==1.23.0
 pandas==1.4.3
+scipy==1.8.1
 seaborn==0.11.2
 sinfo==0.3.4
 sklearn==1.1.1
